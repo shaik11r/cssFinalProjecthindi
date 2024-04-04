@@ -1,0 +1,11 @@
+.red-border {
+  border: 0.1rem solid red;
+}
+.heading {
+  text-align: center;
+}
+.container {
+  text-align: center;
+  padding-top: 1rem;
+  padding-bottom: 1rem;
+}
